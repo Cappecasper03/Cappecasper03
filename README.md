@@ -1,6 +1,6 @@
 <div align="center">
 
-### Casper Juvas · Game Developer & C++ Specialist
+### Casper Juvas · Game Developer & C++ Programmer
 
 UE5 Game Programmer — generalist with a gameplay focus, building immersive systems and high-performance engines.
 
